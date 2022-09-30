@@ -17,3 +17,9 @@ What are the top programming languages in demand?
 What are the top database skills in demand?
 
 What are the popular IDEs?
+
+I will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
+
+Once this is completed, I will make that data ready for analysis using data wrangling techniques. 
+
+When the data is ready I will apply statistical techniques to analyze the data.  Bringing all of my information together by using  IBM Cognos Analytics to create my dashboard. And finally, sharing my findings in a presentation.
